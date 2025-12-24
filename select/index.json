@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Act My Age",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T14:48:45.595709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "Dream Wife",
+      "has_synced": true,
+      "path": "select/01_Act_My_Age_Dream_Wife.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/02_Act_My_Age_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "Pale Waves",
+      "has_synced": false,
+      "path": "select/03_Act_My_Age_Pale_Waves.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_Act_My_Age_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/05_Act_My_Age_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Act My Age (Japan Bonus Track)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/06_Act_My_Age_(Japan_Bonus_Track)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "Hoodie Allen",
+      "has_synced": true,
+      "path": "select/07_Act_My_Age_Hoodie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "Madchild",
+      "has_synced": true,
+      "path": "select/08_Act_My_Age_Madchild.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "Hoodie Allen",
+      "has_synced": true,
+      "path": "select/09_Act_My_Age_Hoodie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/10_Act_My_Age_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/11_Act_My_Age_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/12_Act_My_Age_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/13_Act_My_Age_One_Direction.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Act My Age (Bonus Track)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/14_Act_My_Age_(Bonus_Track)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Act My Age",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/15_Act_My_Age_Katy_Perry.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Act My Age",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Act_My_Age_One_Direction.txt"
+    }
+  ]
+}
